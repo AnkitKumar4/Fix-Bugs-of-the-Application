@@ -40,6 +40,5 @@ Thread - without internet there is no connectivity.
 ## Conclusion: -
 Bugs to be fixed: -  
  In this we can find the bug & fix them. Write source code for sorting the predefined array and ensure the functionality of the application. Find the appropriate comments to code for sorting the predefined array. Add the missing source code to the application based on searching technique. Find the appropriate comments to code for the searching technique.
-## References: -
-git clone https://github.com/Simplilearn-Edu/Full-Stack---The-Desk-Application-.git
+
 
